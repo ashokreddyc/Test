@@ -1,0 +1,2 @@
+Item\tQuantity\tReference\tPart\tDescription\tPart Number\tManufacturer\tMounting\tPackage\tPCB Footprint
+{Item}\t{Quantity}\t{Reference}\t{Value}\t{Description}\t{Part Number}\t{Manufacturer}\t{Mounting}\t{Package}\t{PCB Footprint}
